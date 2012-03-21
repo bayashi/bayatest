@@ -30,7 +30,9 @@ bayatest - one line description
 =head1 DESCRIPTION
 
 =begin html
+
  <img src="https://secure.travis-ci.org/bayashi/Baya.png"/>
+
 =end html
 bayatest is
 
