@@ -27,8 +27,11 @@ bayatest - one line description
     use bayatest;
 
 
-=head1 DESCRIPTION <img src="https://secure.travis-ci.org/bayashi/Baya.png"/>
+=head1 DESCRIPTION
 
+=begin html
+ <img src="https://secure.travis-ci.org/bayashi/Baya.png"/>
+=end html
 bayatest is
 
 
