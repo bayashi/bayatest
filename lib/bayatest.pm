@@ -34,6 +34,7 @@ bayatest - one line description
  <img src="https://secure.travis-ci.org/bayashi/Baya.png"/>
 
 =end html
+
 bayatest is
 
 
@@ -46,11 +47,6 @@ bayatest is hosted on github
 =head1 AUTHOR
 
 Dai Okabayashi E<lt>bayashi@cpan.orgE<gt>
-
-
-=head1 SEE ALSO
-
-L<Other::Module>
 
 
 =head1 LICENSE
