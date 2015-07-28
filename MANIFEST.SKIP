@@ -24,3 +24,5 @@
 ^\.git/
 \.sw[po]$
 ^MYMETA.yml$
+^MYMETA\.json$
+.travis.yml
