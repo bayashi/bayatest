@@ -30,7 +30,7 @@ bayatest - one line description
 
 =begin html
 
- <img src="https://secure.travis-ci.org/bayashi/Baya.png"/>
+ <img src="https://travis-ci.org/bayashi/bayatest.png"/>
 
 =end html
 
